@@ -24,4 +24,4 @@ For decoder part ablation, plase run
 bash scripts/run_decoder_ablation.sh
 ```
 
-Ablatio results are saved to ```./results```
+Ablation results are saved to ```./results```
